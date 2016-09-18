@@ -171,6 +171,9 @@ Designed the backend programs to create an object-oriented structure to encapsul
 
 没有所谓标准的刷题方法，我只是把我的方法介绍出来给大家参考，希望能有借鉴价值。
 
+* 可能有用的网站：
+  * [Know Thy Complexities!](http://bigocheatsheet.com/)
+
 ---
 
 ## 如何准备OO Design
